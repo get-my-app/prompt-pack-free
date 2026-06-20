@@ -13,6 +13,7 @@ Public prompt package for Free-tier project creation and maintenance. Prompts in
 - `prompts/007-promptops-ecosystem-free.md`
 - `prompts/008-prompt-pack-project-free.md`
 - `prompts/009-project-creation-free.md`
+- `prompts/010-always-create-pr-free.md`
 
 ## Boundary
 
